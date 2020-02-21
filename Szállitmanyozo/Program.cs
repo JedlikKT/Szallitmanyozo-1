@@ -10,6 +10,8 @@ namespace Szállitmanyozo
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
